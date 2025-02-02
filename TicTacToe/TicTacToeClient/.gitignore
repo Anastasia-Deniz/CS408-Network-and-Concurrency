@@ -1,0 +1,23 @@
+# Build and binary folders
+bin/
+obj/
+Debug/
+Release/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Visual Studio files
+.vscode/
+*.nupkg
+*.pfx
+*.snk
+
+# Temporary files
+*~
+*.swp
+*.bak
